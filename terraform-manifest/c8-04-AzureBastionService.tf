@@ -1,4 +1,3 @@
-/*
 # Azure Bastion Service - Resources
 ## Resource-1: Azure Bastion Subnet
 resource "azurerm_subnet" "bastion_service_subnet" {
@@ -22,11 +21,10 @@ resource "azurerm_bastion_host" "bastion_host" {
   name                = "${local.resource_name_prefix}-bastion-service"
   location            = azurerm_resource_group.rg.location
   resource_group_name = azurerm_resource_group.rg.name
-  
+
   ip_configuration {
     name                 = "configuration"
     subnet_id            = azurerm_subnet.bastion_service_subnet.id
     public_ip_address_id = azurerm_public_ip.bastion_service_publicip.id
   }
 }
-*/

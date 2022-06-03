@@ -1,8 +1,6 @@
 # Resource-1: Azure Resource Group
 resource "azurerm_resource_group" "rg" {
-  # name = "${local.resource_name_prefix}-${var.resource_group_name}"
-  name = "scrum-squad-capstone"
-  # name = "${local.resource_name_prefix}-${var.resource_group_name}-${random_string.myrandom.id}"
+  name     = "scrum-squad-capstone"
   location = var.resource_group_location
-  tags = local.common_tags
+  # tags = local.common_tags
 }
