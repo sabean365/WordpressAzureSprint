@@ -1,17 +1,17 @@
 # WordpressAzureSprint
-Create WordPress website and host it on an Azure VM with Infrastructure including MySQL database.
+(# Heading level 1) Create WordPress website and host it on an Azure VM with Infrastructure including MySQL database.
 
-Planning Meeting:
-Product Owner: Sarah Bean
-Scrum Master: David Stacey
-Dev Team: Rhoda Lucas, Yaimara Narito, Jesus Villarruel
+(## Heading level 2) Planning Meeting:  
+Product Owner: Sarah Bean  
+Scrum Master: David Stacey  
+Dev Team: Rhoda Lucas, Yaimara Narito, Jesus Villarruel  
 
-Planned epic of Deploy WP website through Azure onto Virtual Machines - Sprint
+Planned epic of Deploy WP website through Azure onto Virtual Machines - Sprint  
 
-Stories and Tasks Created:
-1. As an SRE, I want to be able to push code to Github using branches to have version control.
-  Task: Create a repo - Assigned to Sarah Bean
-  Task: Create branches for development tasks - Assigned to Sarah Bean
+(## Heading level 2) Stories and Tasks Created:
+1. As an SRE, I want to be able to push code to Github using branches to have version control.  
+  Task: Create a repo - Assigned to Sarah Bean  
+  Task: Create branches for development tasks - Assigned to Sarah Bean  
   Task: Enable 2 person code review - Assigned to Sarah Bean
   Task: Give access to repo to all collaborators - Assigned to Sarah Bean
 2. As an SRE, I want to be able to access the Azure portal so that I can develop and test the application.
