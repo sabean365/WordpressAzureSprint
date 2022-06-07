@@ -21,8 +21,14 @@ provider "azurerm" {
 
 resource "azurerm_resource_group" "wordpress" {
   name     = "wordpressResourceGroup"
-  location = var.location
+  location = var.resource_group_location
 
 }
 
+resource "random_string" "fqdn" {
+  length  = 6
+  special = false
+  upper   = false
+  number  = false
+}
 
