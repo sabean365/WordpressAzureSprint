@@ -56,15 +56,15 @@ Each member stated that they had been working on assigned tasks. There were a fe
 
 ## Day 4: Standup<br>
 >Product Owner: David Stacey<br>
->Scrum Master: Rhoda Lucas<br>
+>Scrum Master: Yaimara Narito<br>
 >Dev Team: Sarah Bean, David Stacey, Jesus Villarruel<br>
 
 Each member discussed that on day 3, much of the day was taken up troubleshooting the terraform files as a team. The blocks were that the resources had not yet been created on Azure.
 
 ## Day 5: Standup<br>
->Product Owner: Rhoda Lucas<br>
+>Product Owner: Yaimara Narito<br>
 >Scrum Master: Sarah Bean<br>
->Dev Team: Yaimara Narito, David Stacey, Jesus Villarruel<br>
+>Dev Team: Rhoda Lucas, David Stacey, Jesus Villarruel<br>
 
 Each member discussed working on troubleshooting/debugging, pushing to branches, establishing connection to MySQL database, creating WordPress. Plans were to check for all resources and run demo.
 
