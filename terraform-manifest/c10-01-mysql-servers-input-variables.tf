@@ -3,7 +3,7 @@
 variable "mysql_db_name" {
   description = "Azure MySQL Database Name"
   type        = string
-  default     =  "scrumsquad-mysql"
+  default     = "scrumsquad-mysql"
 }
 
 # DB Username - Enable Sensitive flag
