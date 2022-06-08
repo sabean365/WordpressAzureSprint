@@ -68,6 +68,14 @@ Each member discussed that on day 3, much of the day was taken up troubleshootin
 
 Each member discussed working on troubleshooting/debugging, pushing to branches, establishing connection to MySQL database, creating WordPress. Plans were to check for all resources and run demo.
 
+## Day 5: Demo
+The team shared the work that was done and showed the resources created and WordPress website that was hosted on the Virtual Machine. The sprint was declared "done" by the Product Owner, Yaimara Narito.  There were no stories left in the backlog. 
+
+## Day 5: Sprint Retrospective
+Each team member talked about what they did, if they ran into issues, what was done well, what could be improved.
+
+Note: Both the demo and retrospective were recorded for the class.
+
 
 
 
