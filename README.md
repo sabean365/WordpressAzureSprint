@@ -1,4 +1,4 @@
-## Note: The files in this repo will not work without ssh keys. They have been removed from the proect for security reasons. If you wish to clone and run the terraform files, you will have to create your own public and private ssh keys and place them in the ssh-keys folder. To do this, you can run the command ssh-keygen -t rsa from a command line. For more detailed information about ssh key pairs, visit https://www.ssh.com/academy/ssh/keygen.
+### Note: The files in this repo will not work without ssh keys. They have been removed from the proect for security reasons. If you wish to clone and run the terraform files, you will have to create your own public and private ssh keys and place them in the ssh-keys folder. To do this, you can run the command ssh-keygen -t rsa from a command line. For more detailed information about ssh key pairs, visit https://www.ssh.com/academy/ssh/keygen.
 
 # WordpressAzureSprint
 # Create WordPress website and host it on an Azure VM with Infrastructure including MySQL database.
